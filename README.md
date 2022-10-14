@@ -2,7 +2,7 @@
 
 ### Abstract
 [//]: <>
-This app runs through a series of flashcards in the terminal so the user can test their knowledge on JavaScript fundamentals.
+This app runs through a series of flashcards in the terminal so the user can test their knowledge on JavaScript fundamentals. Once the user has gone through all of the flashcards, they recieve a score based on how many answers they ansered correctly. If they received a score less than 90% the game will offer to run again so the user can practice more. 
 
 ### Installation Instructions:
 [//]: <>
