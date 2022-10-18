@@ -21,6 +21,10 @@ https://user-images.githubusercontent.com/108096652/195729256-67e473ad-7e51-426e
 ### Context:
 [//]: <>
 This project was the product of 12 hours over the course of 3 days. The project was assigned on the first day of the second section of Turing's Front End Engineering curriculum (about 6 weeks into the program).
+
+### Technology Used:
+[//]: <>
+JavaScript | Mocha | Chai
  
 ### Contributors:
 [//]: <>
